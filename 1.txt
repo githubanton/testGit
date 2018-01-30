@@ -8,3 +8,5 @@ for accideint in branch
 again edit strong1 branch
 
 this is edit for friend
+
+remote edit last ...
