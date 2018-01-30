@@ -1,3 +1,4 @@
 master part
 branch strong1
 for accideint in branch
+again edit strong1 branch
